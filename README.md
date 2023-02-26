@@ -3,7 +3,7 @@ This example is a simple demo, using the https://querybuilder.js.org/ ui with th
 
 #### Files
 
-There are 2 example demo's one with a local array of name objects 
+There are 2 example - demos one with a local array of name objects 
 ```
 [{ id:  '1', name:  'andrew' },
  { id:  '2', name:  'bob' },
