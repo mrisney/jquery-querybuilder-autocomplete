@@ -44,6 +44,9 @@ And a remote example with a simple node.js app that returns a matching collectio
 	    {"id": "8","name": "Harry"},
 	    {"id": "9","name": "Isabelle"}]
 ```
+
+![image](https://raw.githubusercontent.com/mrisney/jquery-querybuilder-autocomplete/main/suggest-screenshot.png)
+
 ####  Test the jquery query builder
 When you select the surname, it will preload, and as you type in characters the list will show candidates
 
